@@ -8,11 +8,11 @@
 
 ### 👩‍💻 About Me
 - 🏫 Currently serving as a **Teacher, IT Secretary & Lab In-Charge** at **Darul Arqam Model Academy** *(An Arabic & English Medium Academy)*.
+- 🤖 Serving as **Senior IT Secretary** at **BSPI Robotics Club** *(Bangladesh Sweden Polytechnic Institute)*.
 - 🔭 Focusing on **Software Development**, **Data Structures & Algorithms**, and **Mathematics & Science** problem-solving.
 - 🎨 Working as a **Remote Graphic Designer** alongside creating **Animations** and **AI-Generated Visuals**.
 - ✨ Learning **Generative AI & Prompt Engineering** from **Grameenphone Academy**.
 - 🛠️ Certified in **IT Support and Services (Level 3)** by **NSDA**.
-- 🤖 Active in **Robotics** and tech community leadership.
 - 🌐 Portfolio: **[saom0323.github.io](https://saom0323.github.io)**
 
 ---
@@ -50,5 +50,4 @@
 ---
 
 ### 📫 Connect With Me
-- 🌐 Portfolio: **[saom0323.github.io](https://saom0323.github.io)**
-- 📧 Email: **sanjidajannatsaom@gmail.com**
+- 🌐 Portfolio: **[sa
